@@ -1,1 +1,1 @@
-#This is my first project on "Mileage-Prediction" based on Linear Regression.
+#This is my first project named as "Mileage-Prediction" based on Linear Regression.
